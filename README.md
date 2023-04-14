@@ -1,3 +1,2 @@
 # Collecting-and-Mining-a-Website-Data
-- hdhdhdh
-- sjshsh
+Thu thập và khai phá dữ liệu của trang web http://quotes.toscrape.com/
